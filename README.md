@@ -9,17 +9,17 @@
    &emsp;
 <ul>
     <li> <b> Frontend : </b>
-        <p> HTML <p><br>
-        <p> CSS <p><br>
+        <p> HTML <p>
+        <p> CSS <p>
        
    </li>
 
   <li> <b> Backend : </b>
-       <p> PHP <p><br>
+       <p> PHP <p>
   </li>
 
  <li> <b> DataBasw : </b>
-       <p> Mysql <p><br>    
+       <p> Mysql <p>   
   </li>
 
   </ul>

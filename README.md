@@ -18,7 +18,7 @@
        <p> PHP <p>
   </li>
 
- <li> <b> DataBasw : </b>
+ <li> <b> DataBase : </b>
        <p> Mysql <p>   
   </li>
 
